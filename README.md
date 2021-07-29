@@ -1,1 +1,1 @@
-# Human-Interactive-Program-Short-Alexa-
+This program gets users command via voice. This program can do multiple tasks such as opening google, youtube, vscode, wikipedia etc. This program at the beginning greets you according to time and then follows up the command.
